@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/positivify/static/css/main.073c9b0a.css",
+    "main.js": "/positivify/static/js/main.987a192c.js",
+    "static/js/787.9792271f.chunk.js": "/positivify/static/js/787.9792271f.chunk.js",
+    "static/media/logo.svg": "/positivify/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/positivify/index.html",
+    "main.073c9b0a.css.map": "/positivify/static/css/main.073c9b0a.css.map",
+    "main.987a192c.js.map": "/positivify/static/js/main.987a192c.js.map",
+    "787.9792271f.chunk.js.map": "/positivify/static/js/787.9792271f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.987a192c.js"
+  ]
+}

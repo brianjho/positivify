@@ -17,9 +17,10 @@ class App extends Component {
         <div className="App">
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="results" element={<Results />} />
-            <Route path="about" element={<About />} />
-            <Route path="contact" element={<Contact />} />
+            <Route path="positivify" element={<Home />} />
+            <Route path="positivify/results" element={<Results />} />
+            <Route path="positivify/about" element={<About />} />
+            <Route path="positivify/contact" element={<Contact />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </div>

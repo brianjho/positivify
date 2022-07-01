@@ -22,6 +22,9 @@ class App extends Component {
             <Route path="positivify/contact" element={<Contact />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
+          <footer>
+            <p>Developed by Brian Ho | 2022</p>
+          </footer>
         </div>
       </BrowserRouter>
     );

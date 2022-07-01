@@ -23,7 +23,7 @@ class App extends Component {
             <Route path="*" element={<NotFound />} />
           </Routes>
           <footer>
-            <p>Developed by Brian Ho | 2022</p>
+            <p>Developed by Brian Ho | <a href="/positivify">Home</a> | <a href="/positivify/results">Results</a> | <a href="/positivify/about">About</a> | <a href="/positivify/contact">Contact</a> | <a href="/positivify/about">About</a> | 2022</p>
           </footer>
         </div>
       </BrowserRouter>
